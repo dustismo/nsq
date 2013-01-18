@@ -8,7 +8,7 @@ protocol they will be communicating (upgrades made easy).
 
 For `nsqd`, there is currently only one protocol:
 
-  * `  V2` - a push based streaming protocol for consuming (and request/response for publishing)
+  * `  V2` [space,space,V,2] - a push based streaming protocol for consuming (and request/response for publishing).
 
 ### Important Notes
 
